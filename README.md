@@ -27,7 +27,7 @@ Semântica -> Tags - Etiquetas
 Identação e hierarquia das tags.
 
 👩🏾‍💻 2 ✓ 02/05 | HTML5 - Aprofundamento:
-Elementos de marcação: doctype, header, body, img, p, heading, img, alt, ul, ol, section, âncora
+Elementos de marcação: doctype, header, body, p, heading, img, alt, ul, ol, section, âncora
 Elementos x conteúdo
 Elementos x atributos
 
