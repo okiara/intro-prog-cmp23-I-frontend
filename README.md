@@ -64,6 +64,8 @@ Codificar a estrutura CSS do portfólio durante as explicações das propriedade
 
 - [link da apresentação de HTML](https://docs.google.com/presentation/d/12D3wHJclz2qnEyUIDpm7_1joxx5I0ByyiaSg93gPvYo/edit?usp=sharing)
 
+- [link da apresentação de CSS](https://docs.google.com/presentation/d/1TJld-WsOho7scWy7mOEzv_gFQKIt9J5d/edit?usp=sharing&ouid=105164239009785011956&rtpof=true&sd=true)
+
 ---
 
 <br>
