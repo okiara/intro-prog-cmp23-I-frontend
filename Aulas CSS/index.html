@@ -6,11 +6,17 @@
   <title>Aprendendo CSS</title>
   <meta name="descrição do meu site" content="meu primeiro site com HTML">
   <meta charset="utf-8">
+  <!-- <style>
+    body {
+      background-color: darkgray;
+    }
+  </style> -->
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-  <h1>São Sebastião</h1>
-  <p>
+  <h1 id="titulo">São Sebastião</h1>
+  <p class="paragrafo">
     Lorem ipsum dolor sit amet,
     consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -22,18 +28,16 @@
 
   <h1>Inserindo imagens</h1>
   <h2>Viola</h2>
-
-  <!-- Aqui vamos aprender o CSS inline -->
-  <img src="img/viola.jpeg" />
+  <img src="img/viola.jpeg" width="320" height="205" />
   <h2>Issa</h2>
-  <img src="img/issa.png" />
+  <img src="img/issa.png" width="320" height="205" />
   <br><br>
 
   <h1>Estados e algumas capitais</h1>
-  <section>
-    <h2>Rio Branco</h2>
-    <img src="img/rioBranco.png">
-    <p>
+  <section class="card">
+    <h2 class="card-titulo">Rio Branco</h2>
+    <img src="img/rioBranco.png" class="card-imagem">
+    <p class="card-text">
       <strong>Rio Branco</strong> é a capital do estado do Acre (AC). <br> <b> Área territorial:</b> 8.835km² <br> <b>População: </b>350mil habitantes.
       <br> <b>Curiosidade:</b> de “Capital da Natureza”, em razão dos seus atributos naturais.
     </p>
