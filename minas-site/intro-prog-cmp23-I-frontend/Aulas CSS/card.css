@@ -1,0 +1,45 @@
+.container{
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 960px;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 100%;
+  background: #f2f1f1;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+.fotoValerie{
+  margin-top: 10px;
+  width: 180px;
+  height: 180px;
+  border-radius: 200px;
+}
+
+.sobre{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 32px;
+}
+
+.titulo{
+  color: #20B2AA;
+  font-size: 32px;
+}
+
+.nome{
+  color: #483D8B;
+  font-size: 28px;
+  text-decoration: underline;
+}
+
+.descricao{
+  line-height: 22px;
+  color: #3A3939;
+  font-weight: 500;
+  font-family: monospace;
+  margin-left: 32px;
+  margin-bottom: 10px;
+} 

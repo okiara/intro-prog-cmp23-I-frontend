@@ -1,0 +1,42 @@
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 960px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+background: #f2f1f2;;
+margin-top: 10px;
+border-radius: 5px;
+}
+.avatar{
+width: 180px;
+height: 180px;
+border-radius: 200px;
+}
+
+.display{
+    display: flex;
+    flex-direction: column
+    justify-content center ;
+    margin-left: 32px;
+}
+
+.title{
+    color: #eedae5;
+    font-size: 32px;
+}
+
+.name{
+color: #bfddf3;
+font-size: 28px;
+text-decoration: underline;
+}
+
+.description{
+    line-height: 22px;
+    color: black;
+    font-weight: 500;
+    font-family: monospace;
+    margin-left: 32px;
+}
